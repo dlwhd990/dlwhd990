@@ -6,8 +6,9 @@
 <br>
 
 <h3>🔎About Me</h3>
-<h4>- I'm a student studying web frontend development</h4>
-<h4>- I'm majoring in Information and Communication Engineering at Dongguk University</h4>
+💻 I'm a student studying web frontend development
+<br>
+📘 I'm majoring in Information and Communication Engineering at Dongguk University
 
 <br>
 <br>
