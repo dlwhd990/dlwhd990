@@ -4,27 +4,31 @@
 
 <br>
 <br>
+
+<h3>🔎About Me</h3>
+<h4>- I'm a student studying web frontend development</h4>
+<h4>- I'm majoring in Information and Communication Engineering at Dongguk University</h4>
+
+<br>
 <br>
 
-<h2>🛠 Skills 🛠</h2>
-<br>
+<h3>🛠 Skills 🛠</h3>
+
 <img src="https://img.shields.io/badge/HTML5-E55638?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-25A1E1?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/REACT-61DBFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3773A6?style=flat-square&logo=Python&logoColor=white"/></a>
 
 <br>
 <br>
-<br>
-<h2>📈My GitHub Stats</h2>
-<br>
+
+<h3>📈My GitHub Stats</h3>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dlwhd990&show_icons=true)
 
 <br>
 <br>
-<br>
-<h2>Solved.ac Tier</h2>
-<br>
+
+<h3>Solved.ac Tier</h3>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={dlwhd990})](https://solved.ac/{dlwhd990})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dlwhd990)](https://solved.ac/dlwhd990)
 
 </div>
