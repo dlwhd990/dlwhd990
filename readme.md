@@ -12,7 +12,8 @@
 
 <br>
 <br>
-
+<br>
+  
 <h3>🛠 Skills 🛠</h3>
 
 <img src="https://img.shields.io/badge/HTML5-E55638?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-25A1E1?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/REACT-61DBFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3773A6?style=flat-square&logo=Python&logoColor=white"/></a>
