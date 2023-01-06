@@ -8,7 +8,7 @@
 <h3>🔎About Me</h3>
 💻 I'm a frontend developer
 <br>
-📘 I'm majored in Information and Communication Engineering
+📘 I majored in Information and Communication Engineering
 
 <br>
 <br>
