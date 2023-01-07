@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/TypeScript-327BCD?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/REACT-61DBFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/></a><br><br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Express.js-828282?style=flat-square&logo=express&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-3773A6?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
